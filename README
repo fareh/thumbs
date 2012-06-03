@@ -1,0 +1,7 @@
+J'ai remarqué qui n'existe pas un projet pour le redimensionnement image (croop , zoom , rezize) qui utilise PHP et JavaScript en même temps. Je pensais que je mettrais en place un plugin jquery basé sur le script PHP « TimThumb ».
+
+TimThumb est un simple, souple, script PHP qui redimensionne les images. Il nous permet de générer des images miniatures pour l'afficher sur votre site web.
+
+Ce plugin jquery est un plugin paramétrable qui nous permet de générer une liste des miniatures images à afficher sur votre site sans toucher aux codes PHP.
+
+Ci dessous vous trouverez une liste des paramètres qui utilisent mon plugin jquery à fin de paramétrer la génération des miniatures images :
